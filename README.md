@@ -7,5 +7,3 @@ You can see it in action in the video below.
 
 https://www.youtube.com/watch?v=Uhs1NzeCfuE
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uhs1NzeCfuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
